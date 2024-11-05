@@ -821,7 +821,7 @@ Men
 }
 
 #men .item .thumb:hover .hover-content {
-  bottom: 30px;
+  bottom: 0px;
   opacity: 1;
   visibility: visible;
 }
